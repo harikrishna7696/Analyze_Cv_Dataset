@@ -4,14 +4,14 @@
 
 ### Data need to be in this format
 
-Dir: ex: /home/name/data
+> Dir: ex: /home/name/data
 
 ## Include the train and test data.
-train: Dir/train/images/ --> include the jpg images.
-train: Dir/train/labels/ --> include annotation txt files.
+> train: Dir/train/images/ --> include the jpg images.
+> train: Dir/train/labels/ --> include annotation txt files.
 
-val: Dir/val/images/ --> Include the jpg images.
-val: Dir/val/labels/ --> Include the  txt files.
+> val: Dir/val/images/ --> Include the jpg images.
+> val: Dir/val/labels/ --> Include the  txt files.
 
 classes: Dir/classes.txt
 
