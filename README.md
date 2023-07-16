@@ -20,7 +20,7 @@ classes: Dir/classes.txt
 
 ### Using this repo you can analyze your image dataset
 
-#> git clone https://github.com/harikrishna7696/Analyze_Cv_Dataset.git
+> git clone https://github.com/harikrishna7696/Analyze_Cv_Dataset.git
 
 #### Run the data_set_analyzer.py
 > python3 dataset_set_analyzer.py --root_dir 'directory where your data available' --title 'Saving the report in Dir'
